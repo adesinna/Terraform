@@ -2,3 +2,8 @@ Terraform allows you to provision cloud infrastructure automatically, instead of
 
 
 Install terraform on your VM or Machine, use the internet to do that.
+
+
+Install AWS cli
+
+aws
